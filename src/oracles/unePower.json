@@ -1,0 +1,37 @@
+{
+  "veryLow": [
+    { "min": 1, "max": 2, "label": "Much Weaker" },
+    { "min": 3, "max": 10, "label": "Slightly Weaker" },
+    { "min": 11, "max": 90, "label": "Comparable" },
+    { "min": 91, "max": 98, "label": "Slightly Stronger" },
+    { "min": 99, "max": 100, "label": "Much Stronger" }
+  ],
+  "low": [
+    { "min": 1, "max": 4, "label": "Much Weaker" },
+    { "min": 5, "max": 15, "label": "Slightly Weaker" },
+    { "min": 16, "max": 85, "label": "Comparable" },
+    { "min": 86, "max": 96, "label": "Slightly Stronger" },
+    { "min": 97, "max": 100, "label": "Much Stronger" }
+  ],
+  "mid": [
+    { "min": 1, "max": 5, "label": "Much Weaker" },
+    { "min": 6, "max": 20, "label": "Slightly Weaker" },
+    { "min": 21, "max": 80, "label": "Comparable" },
+    { "min": 81, "max": 95, "label": "Slightly Stronger" },
+    { "min": 96, "max": 100, "label": "Much Stronger" }
+  ],
+  "high": [
+    { "min": 1, "max": 8, "label": "Much Weaker" },
+    { "min": 9, "max": 25, "label": "Slightly Weaker" },
+    { "min": 26, "max": 75, "label": "Comparable" },
+    { "min": 76, "max": 92, "label": "Slightly Stronger" },
+    { "min": 93, "max": 100, "label": "Much Stronger" }
+  ],
+  "veryHigh": [
+    { "min": 1, "max": 12, "label": "Much Weaker" },
+    { "min": 13, "max": 30, "label": "Slightly Weaker" },
+    { "min": 31, "max": 70, "label": "Comparable" },
+    { "min": 71, "max": 88, "label": "Slightly Stronger" },
+    { "min": 89, "max": 100, "label": "Much Stronger" }
+  ]
+}
